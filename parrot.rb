@@ -5,5 +5,5 @@ def parrot(phrase = "Squawk!")
     "#{phrase}"
 end
 phrase = parrot
-
+parrot
 parrot("Pretty Bird!")
